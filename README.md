@@ -1,2 +1,2 @@
-# cs100_team1
-Utilized firebase and android studios to create a one-to-one and multi-chat application
+# cs 100 spring 2018 android chat app team 1 project
+

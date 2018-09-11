@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/colorAccent">
+
+        <!-- Profile option-->
+        <item android:id="@+id/main_action_profile"
+            android:title="@string/main_toolbar_profile"/>
+
+        <item
+        android:id="@+id/main_action_friendList"
+        android:title="@string/friends_list_menu_button"/>
+
+        <!-- "sign out" option for the user -->
+        <item
+            android:id="@+id/main_action_signout"
+            android:title="@string/main_toolbar_signout"/>
+
+
+</menu>

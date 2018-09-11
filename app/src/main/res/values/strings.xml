@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">UcrChatApp</string>
+    <string name="start_register_button">Create New Account</string>
+    <string name="hint_name">Username</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="reg_create_account_button">CREATE ACCOUNT</string>
+    <string name="main_toolbar_signout">Sign out</string>
+    <string name="main_toolbar_profile">Profile</string>
+    <string name="register_prompt_text">Create a New Account</string>
+    <string name="start_sign_in_button">SIGN IN</string>
+    <string name="start_welcome_promt">Welcome UCR Chat App</string>
+    <string name="login_signin_button">LOGIN</string>
+    <string name="login_prompt_text">Login to your account</string>
+    <string name="main_request_tab">request</string>
+    <string name="main_chat_tab">chat</string>
+    <string name="main_friends_tab">friends</string>
+
+    <string name="hint_change_name">Change Name</string>
+    <string name="hint_change_email">Change email</string>
+    <string name="hint_change_bio">Change Bio</string>
+    <string name="customize_save_button">SAVE</string>
+    <string name="customize_cancel_button">CANCEL</string>
+    <string name="customize_edit_button">EDIT</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="friends_list_menu_button">Friends List</string>
+    <string name="profile_settings">Customize Profile</string>
+    <string name="image_button">Image</string>
+    <string name ="camera_button">Camera</string>
+    <string name="message_box_hint">Send a message&#8230;</string>
+
+
+</resources>
